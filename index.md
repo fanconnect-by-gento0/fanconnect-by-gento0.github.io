@@ -29,8 +29,8 @@ title: "FanConnect by gento0 — Experience the Show"
 
 ## Connect with Us
 
-- Email: [fanconnect.support@gmail.com](mailto:fanconnect.support@gmail.com)  
-- Instagram: [@yourInstagramHandle](https://instagram.com/yourInstagramHandle)  
+- Email: [flash65536@gmail.com](mailto:flash65536@gmail.com)  
+- Instagram: [@gento0](https://instagram.com/gento0)  
 
 [Go to Support Page](support.html)
 
