@@ -35,3 +35,9 @@ title: "FanConnect by gento0 — Experience the Show"
 
 [Go to Support Page](support.html)
 
+---
+
+## Legal
+
+[Privacy Policy](privacy-policy.html)
+
