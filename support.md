@@ -15,7 +15,7 @@ Welcome to the official support page for **FanConnect by gento0**, the app that 
 
 **Latest Update Highlights:**
 - Synchronizes light effects with music in real-time
-- Works reliably on multiple iPhone devices
+- Works reliably on **iOS and Android** devices
 - Tested extensively to ensure stable and secure performance
 
 ---
@@ -25,7 +25,7 @@ Welcome to the official support page for **FanConnect by gento0**, the app that 
 If you encounter any issues or bugs, please reach out to us:
 
 - **Email (preferred)**: [fanconnect.support@gmail.com](mailto:flash65536@gmail.com)  
-- **Instagram (optional)**: [@yourInstagramHandle](https://instagram.com/gento0)  
+- **Instagram (optional)**: [@gento0](https://instagram.com/gento0)  
 
 We monitor these channels closely and will respond as quickly as possible.
 
@@ -47,7 +47,7 @@ We monitor these channels closely and will respond as quickly as possible.
 ## Important Notes
 
 - The app works best during live concerts and may not function properly in offline or simulated environments  
-- Make sure your device is running a supported iOS version and has sufficient battery  
+- Make sure your device is running a supported **iOS or Android** version and has sufficient battery  
 
 [Go to Home Page](index.html)
 
