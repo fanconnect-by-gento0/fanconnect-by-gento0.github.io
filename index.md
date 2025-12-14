@@ -20,5 +20,18 @@ title: "FanConnect by gento0 — Experience the Show"
 
 1. Download **FanConnect** on your **iOS or Android** device.  
 2. Open the app during a live show.  
-3. Lift your phone and watch your flashlight join the collective light experien
+3. Lift your phone and watch your flashlight join the collective light experience.
+
+## Download
+
+**Coming soon for iOS and Android!**
+
+---
+
+## Connect with Us
+
+- Email: [flash65536@gmail.com](mailto:flash65536@gmail.com)  
+- Instagram: [@gento0](https://instagram.com/gento0)  
+
+[Go to Support Page](support.html)
 
